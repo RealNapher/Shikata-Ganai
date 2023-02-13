@@ -16,7 +16,7 @@
 
 ### Features
 - [x] Automatically setup all required dependencies.
-- [x] Website and IP scanning
+- [x] Website and IP Recon
 - [x] WiFi Deauther and Handshake Capturing - Supports Hashcat and Aircrack-ng
 - [X] Auto install GPU Drivers if you have one.
 - [ ] Wi-Fi network analysis and exploitation (Supports Evil Twin and Deauth Handshake)
