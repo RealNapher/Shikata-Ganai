@@ -26,7 +26,7 @@
 
 To get started with ShikataGanai, simply clone the repository and run the script.
 
-<br>git clone https://github.com/NapherAKA/ShikataGanai.git </br>
+<br>git clone https://github.com/NapherAKA/Shikata-Ganai.git </br>
 <br>cd ShikataGanai</br>
 
 ./ShikataGanai.py
