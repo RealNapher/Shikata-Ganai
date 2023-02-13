@@ -1,4 +1,4 @@
-<h1 align="center">ShikataGanai</h1>
+<h1 align="center">Shikata-Ganai</h1>
 
 
 <h1 align="center">
@@ -24,12 +24,12 @@
 
 ## Getting Started 
 
-To get started with ShikataGanai, simply clone the repository and run the script.
+To get started with Shikata-Ganai, simply clone the repository and run the script.
 
 <br>git clone https://github.com/NapherAKA/Shikata-Ganai.git </br>
-<br>cd ShikataGanai</br>
+<br>cd Shikata-Ganai</br>
 
-./ShikataGanai.py
+./Shikata-Ganai.py
   
 ## Requirements 
 - Linux operating system 
